@@ -1,0 +1,1 @@
+SCOOP was moved to [Github](http://github.com/soravux/scoop/).
